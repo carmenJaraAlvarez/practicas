@@ -5,9 +5,9 @@ import org.apache.log4j.*;
  * DIVISION y multiplicacion
  *
  */
-public class MisMatemáticas 
+public class MisMatematicas 
 {
-	static Logger log=Logger.getLogger(MisMatemáticas.class); 
+	static Logger log=Logger.getLogger(MisMatematicas.class); 
 	
 	public static int divide(int a, int b){
 		int result= a/b;
